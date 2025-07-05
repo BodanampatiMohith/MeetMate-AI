@@ -38,20 +38,20 @@ meetmate1ai/
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/meetmate-ai.git
+git
 cd meetmate-ai
-2. Create Virtual Environment (optional but recommended)
+3. Create Virtual Environment (optional but recommended)
 bash
 Copy
 Edit
 python -m venv venv
 venv\Scripts\activate  # for Windows
-3. Install Dependencies
+4. Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. Add Google Gemini API Key
+5. Add Google Gemini API Key
 Create a .env file and add:
 
 env
